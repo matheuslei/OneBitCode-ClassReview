@@ -1,4 +1,4 @@
-# OneBitCode: Revisao-de-Classes
+# OneBitCode-ClassReview
 Resolução do exercício "Revisão de Classes" do curso Programador Full Stack javaScript Profissional.
 
 Clique <a href="https://codepen.io/matheuslei/pen/popwrMX?editors=0011" target="_blank" >aqui</a> para visualizar e testar o conteúdo via Codepen.
